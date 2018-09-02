@@ -1,0 +1,98 @@
+
+
+Search EnginesTypes of Search EnginesThis article looks at the two types of search engines and then compares Google with certain search engines Tyra Peterse11/12/2011
+
+Search engines
+Google is one of the most popular search engines at the moment. This article looks at the two types of search engines and then compares Google with certain search engines. 
+What is a search engine
+A search engine is program that searches the Internet for documents containing specified keywords and returns a list of where the key words were found. Different search engines work in different ways and that is why they seem to get different results. 
+Types of search engines
+There are two main kinds of search engines: crawler based search engines and human powered directories.  
+
+Google and AltaVista are crawler based search engines. MSN, Ananzi and Aardvark are hybrid search engines as they contain features of human powered directories as well as crawler based search engines.
+Crawler based search engine
+In a crawler based search engine a user types in key words looking for information, illustrated in the diagram below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Human powered directory
+In a human powered directory a user selects a subject category, as illustrated below, and starts digging to find the sub category and the required information.
+
+
+
+
+
+
+
+
+
+Selected search engine and directories
+Common search engines are:
+www.google.com
+www.altavista.com
+www.msn.com
+www.ananzi.co.za
+www.aardvark.co.za 
+Google
+Google has much to offer in the way of a search engine. One is able to look for web links, images, video, news, maps and more. The Advanced Search feature is useful in finding features, as illustrated below. The Google company continually adds features which will draw the public to their site and a visit to the More link on the opening URL of google.com shows their growing list of products.
+
+
+Ananzi and Aardvark
+Ananzi and Aardvark are very important to us in South Africa as they focus on information relating to South Africa. Their main purpose is to provide links to South African content. They work in conjunction with other search engines to provide certain types of data.
+Looking for information 
+Let us suppose we look for the words ‘drum instrument’
+Web pages containing the words drum and instrument
+Google gives a collection of links to pages which contain those two words. 
+Aardvark gives links to articles which contain those words but are South African in nature. 
+Ananzi gives links to South African sites.
+Images of drums
+Google has many images of a drum instrument.
+Aardvark’s image search engine links to Google. 
+Ananzi does not seem to have an image finder. 
+Mp3 with drum music
+Google does not yet have a feature in Advanced Search to look for mp3s. You can search for ‘drum instrument mp3’ but it does not necessarily find mp3 files. 
+AltaVista allows one to search for mp3 sound files.  
+Aardvark and Ananzi do not have links to mp3 files.
+Suppose we look for the words ‘mopani worm’
+Web pages containing the words mopani worm
+Google gives a collection of links to pages which contain those two words. 
+Aardvark has many links to pages which contain those two words. This search engines seems the best,
+Ananzi has many links to pages which contain those two words. This search engines seems the most commercial of the South Africa search engines.
+Images of mopani worms
+Google’s Image search feature has links to many pictures of mopani worms.
+Aardvark had links to articles on the mopani worm.
+Ananzi had links to South African web sites and even had a site which sold high quality images including mopani worms.
+Suppose we look for things for young people in South Africa 
+Google could not provide any assistance.
+Aardvark has a directory ‘Kids and Teens’ which offers a variety of things for young people, one just needs to select an area of interest.
+Ananzi does not have a separate category for ‘Kids and Teens’ but does have categories of Education, Functions and Exhibitions, Sport, etc. where one can find things of interest in South Africa for kids and teens.
+Conclusion
+Google is a good search engine for general use for web pages and images. Aardvark is a little less commercial than Ananzi but both a well-focused on South Africa. A good search engine for Mp3s is Altavista.
+
+The difference between the original file and the plain text file is that the text file is much smaller then the original file also u cannot edit the text file while in the original file allows you to edit the document
+
+
+Tyra Peterse
+Activity 3 
+Number 2
+17 January 2014
+Page 139
+
+
+Tyra Peterse
+Activity 2
+Page 137
+17 january 2014
+
+
